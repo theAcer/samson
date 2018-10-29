@@ -27,7 +27,7 @@ SECRET_KEY = '3c=zelfuhrhal#d@0^8+dfcw3698xy)kbp-+oyen0q&00a6m6&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', 'samsonnjogu.herokuapp.com', 'samsonnjogu.com']
 
 
 # Application definition
